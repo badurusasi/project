@@ -1,0 +1,10 @@
+{
+  "employees": [
+    {
+      "eName": "KIRAN",
+      "eSal": "50000",
+      "eComp": "WIPRO",
+      "id": 2
+    }
+  ]
+}
